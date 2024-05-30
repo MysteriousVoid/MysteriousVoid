@@ -103,9 +103,6 @@
   
 </div>
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=MysteriousVoid&label=Profile%20Views&color=0&icon=1&pretty=false" />
-</a>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
