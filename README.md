@@ -98,10 +98,14 @@
 
 <!--profile visit count-->
 <div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=MysteriousVoid&label=Profile%20Views&color=0&icon=1&pretty=false)](https://visitcount.itsvg.in)
   
 </div>
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=MysteriousVoid&label=Profile%20Views&color=0&icon=1&pretty=false" />
+</a>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
